@@ -7,6 +7,7 @@ You can check it here:
 As it is now, this calculator offers basic functionality, but there's room for improvements. Also, there are still so many bugs to solve. I'd like to add: 
 - Stack display screen.
 - A delete button or percentage button.
+
 Bugs detected:
 - No solution yet for division by 0.
 - NaN showing up when pressing two operators in a row.
