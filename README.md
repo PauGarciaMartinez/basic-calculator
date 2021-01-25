@@ -1,7 +1,7 @@
 # basic-calculator
 JavaScript basic calculator
 
-You can check it here: 
+You can check it here: https://paugarciamartinez.github.io/js-basic-calculator/
 
 24/01/2021
 As it is now, this calculator offers basic functionality, but there's room for improvements. Also, there are still a few bugs to solve. I'd like to add: 
